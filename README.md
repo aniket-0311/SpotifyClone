@@ -17,8 +17,8 @@ SpotifyClone is a web application created using Spring Boot, Bootstrap, Angular,
 
 ### Screenshots
 
-![Image1](assets/S-1.png)
+![Image1](frontend\src\assets\S-1.png)
 
-![Image2](assets/S-2.png)
+![Image2](frontend\src\assets\S-2.png)
 
 
