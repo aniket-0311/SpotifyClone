@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Importing Bootstrap SCSS file. */
+@import 'assets/scss/_bootstrap-variables';
+@import 'bootstrap/scss/bootstrap';
+
+.nav-icon {
+    font-size: 20px;
+  }
+  
+  
+  .song-card-background {
+    cursor: pointer;
+    background-color: $card-inactive-background;
+  }
+  
+  .song-card-background:hover {
+    background-color: $card-hover-background;
+    border-radius: $card-border-radius;
+  }
+  
+  .author {
+    color: $secondary;
+    font-size: $font-size-small;
+  }
